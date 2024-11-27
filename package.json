@@ -7,7 +7,6 @@
         "lint": "eslint resources/js --ext .js,.vue --ignore-path .gitignore --fix"
     },
     "devDependencies": {
-        "@inertiajs/vue3": "^1.0.0",
         "@rushstack/eslint-patch": "^1.8.0",
         "@tailwindcss/forms": "^0.5.3",
         "@vitejs/plugin-vue": "^5.0.0",
